@@ -5,7 +5,7 @@ An AI-powered Health Care Chatbot built using **Python, Streamlit, and Groq AI**
 
 ## 🚀 Live Demo
 
-[Click here to access the Health Care Chatbot]([https://health-care-chatbot.streamlit.app/](https://health-care-sample-chatbot.streamlit.app)])
+[Click here to access the Health Care Chatbot]((https://health-care-sample-chatbot.streamlit.app))
 
 ## 📌 Project Overview
 
